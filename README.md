@@ -24,3 +24,5 @@ As you can see from the image below, my map incorporates unique and fun colors t
 
 <img width="307" alt="Screen Shot 2022-08-04 at 7 16 22 PM" src="https://user-images.githubusercontent.com/104043438/182981504-3950883b-4690-4a6c-adce-2aac6b40c65e.png">
 
+### For learning purposes:
+I created different branches that display my codes for each unique step used in creating my final map. The first branch (
